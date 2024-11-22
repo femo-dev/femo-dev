@@ -35,7 +35,7 @@ If you would like to learn more or have any questions, please feel free to conta
 
    ![](./assets/img/haviest-object.png)
 
-<i>This joke plays on the idea that the node_modules folder is ridiculously large and heavy, even more so than the densest objects in the universe, such as black holes. <br>It's a classic joke among developers who use Node.js.</i> 😄 <i>Fortunately, Deno arrived! More about these topics in [greencode](https://greencode.deno.dev) (under construction)</i>.
+<i>This joke plays on the idea that the node_modules folder is ridiculously large and heavy, even more so than the densest objects in the universe, such as black holes. It's a classic joke among developers who use Node.js.</i> 😄 <i>Fortunately, Deno arrived! More about these topics in [greencode](https://greencode.deno.dev) (under construction)</i>.
 
 ## Contact me
 
