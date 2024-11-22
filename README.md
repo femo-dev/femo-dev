@@ -25,8 +25,8 @@ If you would like to learn more or have any questions, please feel free to conta
 
 ## A little more about me
 
-- 🔭 I am currently working on my personal project that will help us learn vocabulary in another language more efficiently
-- 🌱 I’m currently learning Software Developer on Manitoba Institute of Trades and Technology (MITT)
+- 🔭 I'm currently working on my personal project that will help us learn vocabulary in another language more efficiently
+- 🌱 I’m currently studying Software Developer Certificate at Manitoba Institute of Trades and Technology (MITT)
 - 👯 I’m looking to collaborate on FEDLATAM's Website as a volunteer
 - 🤔 I’m looking for help with how to do networking and find better labor opportunities
 - 💬 Ask me about what is Deno and Fresh
@@ -35,7 +35,7 @@ If you would like to learn more or have any questions, please feel free to conta
 
    ![](./assets/img/haviest-object.png)
 
-<i>This joke plays on the idea that the node_modules folder is ridiculously large and heavy, even more so than the densest objects in the universe, such as black holes. It's a classic joke among developers who use Node.js.</i> 😄 <i>Fortunately, Deno arrived! More about these topics in [greencode](https://greencode.deno.dev) (under construction)</i>.
+<i>This joke plays on the idea that the node_modules folder is ridiculously large and heavy, even more so than the densest objects in the universe, such as black holes. It's a classic joke among developers who use Node.js.</i> 😄 <i>Fortunately, Deno arrived! More about these interesting topics in [greencode](https://greencode.deno.dev) (under construction)</i>.
 
 ## Contact me
 
