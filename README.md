@@ -1,11 +1,11 @@
 ![](./assets/img/banner.jpg)
 # About me
 
-With over a decade of experience in software development, I have successfully worked on diverse solutions, including web and desktop applications, RESTful APIs, and microservices. My technical expertise spans a range of technologies, such as .NET, C#, SQL Server, Node.js, and JavaScript, enabling me to design and implement scalable, efficient systems. I am deeply committed to creating user-friendly applications with a strong emphasis on performance and reliability.
+With over a decade of experience in software development, I have successfully worked on diverse solutions, including web and desktop applications, RESTful APIs, and microservices. My technical expertise spans a range of technologies, such as .NET, C#, SQL Server, Node.js, and JavaScript, enabling me to design and implement scalable, efficient systems.
 
 I am a lifelong learner, passionate about emerging technologies such as artificial intelligence, Deno, and Fresh. I also enjoy exploring areas like video editing and am currently learning about Shopify and e-commerce.
 
-If you would like to learn more or have any questions, please feel free to contact me. I am always willing to connect, share ideas, and explore new opportunities with you!
+If you would like to learn more or have any questions, please feel free to contact me. I am always willing to connect and share ideas!
 
 ## My skills
 <p>
@@ -19,9 +19,13 @@ If you would like to learn more or have any questions, please feel free to conta
     <img src="https://img.shields.io/badge/code-fresh-informational?style=for-the-badge&logo=fresh&logoColor=white&color=2972aa"/>&nbsp;
 </p>
 
-##
+## Stats
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabianmendozaospina&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabianmendozaospina&theme=github&hide_border=false&bg_color=0d1117&color=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=fabianmendozaospina&show_icons=true&theme=github_dark&card_width=450&hide=contribs" alt="GitHub Stats" height="180px">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianmendozaospina&layout=compact&theme=github_dark&langs_count=6&card_width=450&bg_color=0d1117" alt="Top Languages" height="180px">
 
 ## A little more about me
 
