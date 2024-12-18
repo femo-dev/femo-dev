@@ -1,5 +1,5 @@
 ![](./assets/img/banner.jpg)
-# About me
+# Ready For New Challenges!
 
 With over a decade of experience in software development, I have successfully worked on diverse solutions, including web and desktop applications, RESTful APIs, and microservices. My technical expertise spans a range of technologies, such as .NET, C#, SQL Server, Node.js, and JavaScript, enabling me to design and implement scalable, efficient systems.
 
