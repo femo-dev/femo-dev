@@ -45,6 +45,6 @@ If you would like to learn more or have any questions, please feel free to conta
 
 How to reach me:
 
-[![femo.dev](https://img.shields.io/badge/fabianmendoza@femo.dev-Email-blue?style=for-the-badge&logo=mail.ru&logoWidth=32)](mailto:fabianmendoza@femo.dev)
+[![femo.dev](https://img.shields.io/badge/femo.dev-Email-blue?style=for-the-badge&logo=mail.ru&logoWidth=32)](mailto:fabianmendoza@femo.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Networking-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/femo-dev/)
 [![GreenCode](https://img.shields.io/badge/GreenCode-Blog-darkgreen?style=for-the-badge&logo=goodreads)](https://greencode.deno.dev/)
