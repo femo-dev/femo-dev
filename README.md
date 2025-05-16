@@ -21,11 +21,11 @@ If you would like to learn more or have any questions, please feel free to conta
 
 ## Stats
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabianmendozaospina&theme=github&hide_border=false&bg_color=0d1117&color=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=femo-dev&theme=github&hide_border=false&bg_color=0d1117&color=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=fabianmendozaospina&show_icons=true&theme=github_dark&card_width=450&hide=contribs" alt="GitHub Stats" height="180px" width="380px">
+<img src="https://github-readme-stats.vercel.app/api?username=femo-dev&show_icons=true&theme=github_dark&card_width=450&hide=contribs" alt="GitHub Stats" height="180px" width="380px">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianmendozaospina&layout=compact&theme=github_dark&langs_count=6&card_width=450&bg_color=0d1117" alt="Top Languages" height="180px" width="380px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=femo-dev&layout=compact&theme=github_dark&langs_count=6&card_width=450&bg_color=0d1117" alt="Top Languages" height="180px" width="380px">
 
 ## A little more about me
 
@@ -45,6 +45,6 @@ If you would like to learn more or have any questions, please feel free to conta
 
 How to reach me:
 
-[![Outlook](https://img.shields.io/badge/Outlook-Email-blue?style=for-the-badge&logo=mail.ru&logoWidth=32)](mailto:fabianmendozaospina@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Networking-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fabianmendozaospina/)
+[![Outlook](https://img.shields.io/badge/Outlook-Email-blue?style=for-the-badge&logo=mail.ru&logoWidth=32)](mailto:femo-dev@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Networking-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/femo-dev/)
 [![GreenCode](https://img.shields.io/badge/GreenCode-Blog-darkgreen?style=for-the-badge&logo=goodreads)](https://greencode.deno.dev/)
