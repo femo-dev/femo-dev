@@ -30,8 +30,6 @@ If you would like to learn more or have any questions, please feel free to conta
 ## A little more about me
 
 - 🔭 I'm currently working on my personal project that will help us learn vocabulary in another language more efficiently
-- 👯 I’m looking to collaborate on FEDLATAM's Website as a volunteer
-- 🤔 I’m looking for help with how to do networking and find better labor opportunities
 - 💬 Ask me about what is Deno and Fresh
 - 😊 I Enjoy topics about astronomy
 - ⚡ Fun fact: What's the heaviest object in the universe?
